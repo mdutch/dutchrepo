@@ -4,3 +4,6 @@
 
 removed2
 removed3
+* New line
+> New line
+#####
